@@ -4,7 +4,7 @@
 const CONFIG = {
   // Ton numéro WhatsApp au format international, sans + ni espaces (ex : "243812345678").
   // Laisse vide : WhatsApp laissera Magnifique choisir ton contact elle-même.
-  whatsapp: '',
+  whatsapp: '256709987002',
 
   // Messages pré-écrits envoyés sur WhatsApp selon sa réponse.
   msgYes: "Oui, tentons l'aventure ❤️",
