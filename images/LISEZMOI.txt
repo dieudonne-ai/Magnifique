@@ -1,0 +1,5 @@
+Dépose tes photos ici, nommées :
+  photo1.jpg, photo2.jpg, photo3.jpg ... (jusqu'à photo10)
+Formats acceptés : jpg, jpeg, png, webp  (pas de HEIC : convertis d'abord en JPG)
+Astuce : réduis-les à ~1000 px de large (moins de 400 Ko chacune) pour que le site s'ouvre vite sur WhatsApp.
+Elles apparaissent automatiquement : bulles flottantes, pile de polaroïds, bandeau final.
